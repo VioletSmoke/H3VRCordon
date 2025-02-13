@@ -15,6 +15,6 @@ MonoBehaviour:
   SceneName: Cordon
   GameMode: sandbox
   DisplayMode: sandbox
-  Thumbnail: {fileID: 2800000, guid: 433edb0abe0bc474f92c8e062f12fe0f, type: 3}
+  Thumbnail: {fileID: 2800000, guid: 6442315ccba018b4db0b21ce65c67df2, type: 3}
   Author: GSC Game World
   Description: 
